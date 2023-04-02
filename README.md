@@ -1,8 +1,5 @@
 # Personal Portfolio
-![Rahul-Portfolio](https://user-images.githubusercontent.com/118264222/224553983-d0782a0a-7fb0-479e-a491-c7124b286d03.png)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+![Haseeb-Portfolio]
 
 #features
 * Multiple Pages (React Router)
